@@ -1,0 +1,5 @@
+Pods
+.idea
+.DS_Store
+*.xcworkspace
+Podfile.lock
